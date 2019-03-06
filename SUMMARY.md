@@ -1,8 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [About ME](aboutme.md)
-* [相关资料](book.md)
 * [2019-坑（经验）](2019/index.md)
   * [react被弃用的函数替换方案-(bug)](2019/componentWillMount.md)
 * [2018-坑（经验）](2018/index.md)
@@ -20,8 +18,7 @@
   * [页面第一次加载时接口异步但有些需要触发同步操作](2018/endpoint.md)
   * [点击页面中的button按钮触发校验问题](2018/button.md)
   * [模态对话框使用方法及常见问题解决](2018/modal.md)
-  * [目前产品前端所存在的问题-不间断更新](2018/p_question.md)
-  * [开发时的自我约束与思考-不间断更新](2018/me_question.md)
+* [关于我](aboutme.md)
 
 
 

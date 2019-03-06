@@ -1,1 +1,5 @@
-#bug-analyse
+# bug-analyse
+
+在工作中，会遇见些bug，记录并分析问题产生的原因。
+
+（不定时更新）
